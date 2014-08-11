@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/test/org/dom4j/dtd
+END
+ElementDeclTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/test/org/dom4j/dtd/ElementDeclTest.java
+END
+InternalEntityDeclTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/test/org/dom4j/dtd/InternalEntityDeclTest.java
+END
+ExternalEntityDeclTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/test/org/dom4j/dtd/ExternalEntityDeclTest.java
+END
+AttributeDeclTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/test/org/dom4j/dtd/AttributeDeclTest.java
+END

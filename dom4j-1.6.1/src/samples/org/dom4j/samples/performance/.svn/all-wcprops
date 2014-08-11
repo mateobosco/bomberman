@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/samples/org/dom4j/samples/performance
+END
+Timer.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/samples/org/dom4j/samples/performance/Timer.java
+END
+Task.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/samples/org/dom4j/samples/performance/Task.java
+END
+ParseLoop.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/samples/org/dom4j/samples/performance/ParseLoop.java
+END
+PullParseTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/samples/org/dom4j/samples/performance/PullParseTest.java
+END
+ToTextTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/samples/org/dom4j/samples/performance/ToTextTest.java
+END
+ParseTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/samples/org/dom4j/samples/performance/ParseTest.java
+END
+PerformanceSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/samples/org/dom4j/samples/performance/PerformanceSupport.java
+END

@@ -1,0 +1,203 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/bomberman/!svn/ver/154/src/logica
+END
+EnemigoLopezReggaeAlado.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/bomberman/!svn/ver/150/src/logica/EnemigoLopezReggaeAlado.java
+END
+MolotovEnemigaLopezReggaeAlado.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/bomberman/!svn/ver/150/src/logica/MolotovEnemigaLopezReggaeAlado.java
+END
+EnemigoCecilio.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/bomberman/!svn/ver/141/src/logica/EnemigoCecilio.java
+END
+MainLoop.java
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/bomberman/!svn/ver/153/src/logica/MainLoop.java
+END
+FuegosVivos.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/bomberman/!svn/ver/130/src/logica/FuegosVivos.java
+END
+Timer.java
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/bomberman/!svn/ver/142/src/logica/Timer.java
+END
+Explosion.java
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/bomberman/!svn/ver/130/src/logica/Explosion.java
+END
+Articulo.java
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/bomberman/!svn/ver/142/src/logica/Articulo.java
+END
+Armamento.java
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/bomberman/!svn/ver/143/src/logica/Armamento.java
+END
+FabricadeNiveles.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/bomberman/!svn/ver/154/src/logica/FabricadeNiveles.java
+END
+ToleTole.java
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/bomberman/!svn/ver/143/src/logica/ToleTole.java
+END
+Jugador.java
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/bomberman/!svn/ver/145/src/logica/Jugador.java
+END
+EnemigosVivos.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/bomberman/!svn/ver/139/src/logica/EnemigosVivos.java
+END
+Puerta.java
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/bomberman/!svn/ver/132/src/logica/Puerta.java
+END
+BloqueAcero.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/bomberman/!svn/ver/141/src/logica/BloqueAcero.java
+END
+ObstaculosVivos.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/bomberman/!svn/ver/129/src/logica/ObstaculosVivos.java
+END
+Fuego.java
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/bomberman/!svn/ver/110/src/logica/Fuego.java
+END
+Chala.java
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/bomberman/!svn/ver/142/src/logica/Chala.java
+END
+Elemento.java
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/bomberman/!svn/ver/86/src/logica/Elemento.java
+END
+EnemigoLopezReggae.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/bomberman/!svn/ver/150/src/logica/EnemigoLopezReggae.java
+END
+Juego.java
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/bomberman/!svn/ver/153/src/logica/Juego.java
+END
+MolotovEnemigaLopezReggae.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/bomberman/!svn/ver/150/src/logica/MolotovEnemigaLopezReggae.java
+END
+Coordenadas.java
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/bomberman/!svn/ver/36/src/logica/Coordenadas.java
+END
+Enemigo.java
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/bomberman/!svn/ver/141/src/logica/Enemigo.java
+END
+MolotovEnemiga.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/bomberman/!svn/ver/143/src/logica/MolotovEnemiga.java
+END
+BuffToleTole.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/bomberman/!svn/ver/142/src/logica/BuffToleTole.java
+END
+Obstaculo.java
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/bomberman/!svn/ver/141/src/logica/Obstaculo.java
+END
+ArticulosVivos.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/bomberman/!svn/ver/129/src/logica/ArticulosVivos.java
+END
+Movible.java
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/bomberman/!svn/ver/29/src/logica/Movible.java
+END
+ArmamentosVivos.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/bomberman/!svn/ver/134/src/logica/ArmamentosVivos.java
+END
+BloqueLadrillos.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/bomberman/!svn/ver/141/src/logica/BloqueLadrillos.java
+END
+Molotov.java
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/bomberman/!svn/ver/143/src/logica/Molotov.java
+END
+BloqueCemento.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/bomberman/!svn/ver/141/src/logica/BloqueCemento.java
+END

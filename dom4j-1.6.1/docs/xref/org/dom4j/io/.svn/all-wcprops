@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/bomberman/!svn/ver/109/dom4j-1.6.1/docs/xref/org/dom4j/io
+END
+DOMReader.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/bomberman/!svn/ver/109/dom4j-1.6.1/docs/xref/org/dom4j/io/DOMReader.html
+END
+STAXEventReader.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/bomberman/!svn/ver/109/dom4j-1.6.1/docs/xref/org/dom4j/io/STAXEventReader.html
+END
+ElementModifier.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/bomberman/!svn/ver/109/dom4j-1.6.1/docs/xref/org/dom4j/io/ElementModifier.html
+END
+SAXModifyElementHandler.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/bomberman/!svn/ver/109/dom4j-1.6.1/docs/xref/org/dom4j/io/SAXModifyElementHandler.html
+END
+DOMWriter.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/bomberman/!svn/ver/109/dom4j-1.6.1/docs/xref/org/dom4j/io/DOMWriter.html
+END
+XPP3Reader.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/bomberman/!svn/ver/109/dom4j-1.6.1/docs/xref/org/dom4j/io/XPP3Reader.html
+END
+STAXEventWriter.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/bomberman/!svn/ver/109/dom4j-1.6.1/docs/xref/org/dom4j/io/STAXEventWriter.html
+END
+SAXReader.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/bomberman/!svn/ver/109/dom4j-1.6.1/docs/xref/org/dom4j/io/SAXReader.html
+END
+ElementStack.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/bomberman/!svn/ver/109/dom4j-1.6.1/docs/xref/org/dom4j/io/ElementStack.html
+END
+PruningElementStack.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/bomberman/!svn/ver/109/dom4j-1.6.1/docs/xref/org/dom4j/io/PruningElementStack.html
+END
+SAXEventRecorder.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/bomberman/!svn/ver/109/dom4j-1.6.1/docs/xref/org/dom4j/io/SAXEventRecorder.html
+END
+SAXContentHandler.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/bomberman/!svn/ver/109/dom4j-1.6.1/docs/xref/org/dom4j/io/SAXContentHandler.html
+END
+SAXModifyReader.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/bomberman/!svn/ver/109/dom4j-1.6.1/docs/xref/org/dom4j/io/SAXModifyReader.html
+END
+SAXWriter.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/bomberman/!svn/ver/109/dom4j-1.6.1/docs/xref/org/dom4j/io/SAXWriter.html
+END
+SAXHelper.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/bomberman/!svn/ver/109/dom4j-1.6.1/docs/xref/org/dom4j/io/SAXHelper.html
+END
+SAXModifyContentHandler.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/bomberman/!svn/ver/109/dom4j-1.6.1/docs/xref/org/dom4j/io/SAXModifyContentHandler.html
+END
+DispatchHandler.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/bomberman/!svn/ver/109/dom4j-1.6.1/docs/xref/org/dom4j/io/DispatchHandler.html
+END
+DocumentSource.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/bomberman/!svn/ver/109/dom4j-1.6.1/docs/xref/org/dom4j/io/DocumentSource.html
+END
+JAXPHelper.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/bomberman/!svn/ver/109/dom4j-1.6.1/docs/xref/org/dom4j/io/JAXPHelper.html
+END
+OutputFormat.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/bomberman/!svn/ver/109/dom4j-1.6.1/docs/xref/org/dom4j/io/OutputFormat.html
+END
+SAXModifier.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/bomberman/!svn/ver/109/dom4j-1.6.1/docs/xref/org/dom4j/io/SAXModifier.html
+END
+DocumentResult.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/bomberman/!svn/ver/109/dom4j-1.6.1/docs/xref/org/dom4j/io/DocumentResult.html
+END
+DocumentInputSource.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/bomberman/!svn/ver/109/dom4j-1.6.1/docs/xref/org/dom4j/io/DocumentInputSource.html
+END
+SAXModifyException.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/bomberman/!svn/ver/109/dom4j-1.6.1/docs/xref/org/dom4j/io/SAXModifyException.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/bomberman/!svn/ver/109/dom4j-1.6.1/docs/xref/org/dom4j/io/package-frame.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/bomberman/!svn/ver/109/dom4j-1.6.1/docs/xref/org/dom4j/io/package-summary.html
+END
+XPPReader.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/bomberman/!svn/ver/109/dom4j-1.6.1/docs/xref/org/dom4j/io/XPPReader.html
+END
+XMLWriter.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/bomberman/!svn/ver/109/dom4j-1.6.1/docs/xref/org/dom4j/io/XMLWriter.html
+END
+XMLResult.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/bomberman/!svn/ver/109/dom4j-1.6.1/docs/xref/org/dom4j/io/XMLResult.html
+END
+PruningDispatchHandler.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/bomberman/!svn/ver/109/dom4j-1.6.1/docs/xref/org/dom4j/io/PruningDispatchHandler.html
+END
+SAXValidator.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/bomberman/!svn/ver/109/dom4j-1.6.1/docs/xref/org/dom4j/io/SAXValidator.html
+END
+HTMLWriter.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/bomberman/!svn/ver/109/dom4j-1.6.1/docs/xref/org/dom4j/io/HTMLWriter.html
+END

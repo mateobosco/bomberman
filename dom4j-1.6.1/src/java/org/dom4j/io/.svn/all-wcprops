@@ -1,0 +1,191 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/java/org/dom4j/io
+END
+XMLWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/java/org/dom4j/io/XMLWriter.java
+END
+XMLResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/java/org/dom4j/io/XMLResult.java
+END
+DocumentSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/java/org/dom4j/io/DocumentSource.java
+END
+DOMReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/java/org/dom4j/io/DOMReader.java
+END
+JAXPHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/java/org/dom4j/io/JAXPHelper.java
+END
+STAXEventReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/java/org/dom4j/io/STAXEventReader.java
+END
+ElementModifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/java/org/dom4j/io/ElementModifier.java
+END
+OutputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/java/org/dom4j/io/OutputFormat.java
+END
+SAXModifyElementHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/java/org/dom4j/io/SAXModifyElementHandler.java
+END
+DOMWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/java/org/dom4j/io/DOMWriter.java
+END
+DocumentResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/java/org/dom4j/io/DocumentResult.java
+END
+STAXEventWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/java/org/dom4j/io/STAXEventWriter.java
+END
+SAXReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/java/org/dom4j/io/SAXReader.java
+END
+SAXModifyException.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/java/org/dom4j/io/SAXModifyException.java
+END
+PruningElementStack.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/java/org/dom4j/io/PruningElementStack.java
+END
+SAXContentHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/java/org/dom4j/io/SAXContentHandler.java
+END
+SAXModifyReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/java/org/dom4j/io/SAXModifyReader.java
+END
+SAXWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/java/org/dom4j/io/SAXWriter.java
+END
+SAXHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/java/org/dom4j/io/SAXHelper.java
+END
+SAXModifyContentHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/java/org/dom4j/io/SAXModifyContentHandler.java
+END
+DispatchHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/java/org/dom4j/io/DispatchHandler.java
+END
+PruningDispatchHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/java/org/dom4j/io/PruningDispatchHandler.java
+END
+SAXValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/java/org/dom4j/io/SAXValidator.java
+END
+HTMLWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/java/org/dom4j/io/HTMLWriter.java
+END
+SAXModifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/java/org/dom4j/io/SAXModifier.java
+END
+XPP3Reader.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/java/org/dom4j/io/XPP3Reader.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/java/org/dom4j/io/package.html
+END
+DocumentInputSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/java/org/dom4j/io/DocumentInputSource.java
+END
+ElementStack.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/java/org/dom4j/io/ElementStack.java
+END
+SAXEventRecorder.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/java/org/dom4j/io/SAXEventRecorder.java
+END
+XPPReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/java/org/dom4j/io/XPPReader.java
+END

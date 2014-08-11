@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/java/org/dom4j/util
+END
+XMLErrorHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/java/org/dom4j/util/XMLErrorHandler.java
+END
+ProxyDocumentFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/java/org/dom4j/util/ProxyDocumentFactory.java
+END
+SimpleSingleton.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/java/org/dom4j/util/SimpleSingleton.java
+END
+NodeComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/java/org/dom4j/util/NodeComparator.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/java/org/dom4j/util/package.html
+END
+NonLazyDocumentFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/java/org/dom4j/util/NonLazyDocumentFactory.java
+END
+UserDataElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/java/org/dom4j/util/UserDataElement.java
+END
+SingletonStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/java/org/dom4j/util/SingletonStrategy.java
+END
+IndexedElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/java/org/dom4j/util/IndexedElement.java
+END
+UserDataAttribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/java/org/dom4j/util/UserDataAttribute.java
+END
+UserDataDocumentFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/java/org/dom4j/util/UserDataDocumentFactory.java
+END
+PerThreadSingleton.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/java/org/dom4j/util/PerThreadSingleton.java
+END
+AttributeHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/java/org/dom4j/util/AttributeHelper.java
+END
+NonLazyElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/java/org/dom4j/util/NonLazyElement.java
+END
+IndexedDocumentFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/java/org/dom4j/util/IndexedDocumentFactory.java
+END

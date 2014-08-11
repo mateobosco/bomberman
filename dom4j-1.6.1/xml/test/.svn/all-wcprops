@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/bomberman/!svn/ver/109/dom4j-1.6.1/xml/test
+END
+cdata.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/bomberman/!svn/ver/109/dom4j-1.6.1/xml/test/cdata.xml
+END
+toby.xml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/bomberman/!svn/ver/109/dom4j-1.6.1/xml/test/toby.xml
+END
+journal.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/bomberman/!svn/ver/109/dom4j-1.6.1/xml/test/journal.xsl
+END
+sample.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/bomberman/!svn/ver/109/dom4j-1.6.1/xml/test/sample.xml
+END
+nestedNamespaces.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/bomberman/!svn/ver/109/dom4j-1.6.1/xml/test/nestedNamespaces.xml
+END
+test_text.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/bomberman/!svn/ver/109/dom4j-1.6.1/xml/test/test_text.xml
+END
+soap2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/bomberman/!svn/ver/109/dom4j-1.6.1/xml/test/soap2.xml
+END
+soap3.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/bomberman/!svn/ver/109/dom4j-1.6.1/xml/test/soap3.xml
+END
+webwhitespace.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/bomberman/!svn/ver/109/dom4j-1.6.1/xml/test/webwhitespace.xml
+END
+LuisSchema.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/bomberman/!svn/ver/109/dom4j-1.6.1/xml/test/LuisSchema.xsd
+END
+longCDATA.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/bomberman/!svn/ver/109/dom4j-1.6.1/xml/test/longCDATA.xml
+END
+DavidHooker.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/bomberman/!svn/ver/109/dom4j-1.6.1/xml/test/DavidHooker.xml
+END
+mergetext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/bomberman/!svn/ver/109/dom4j-1.6.1/xml/test/mergetext.xml
+END
+fields.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/bomberman/!svn/ver/109/dom4j-1.6.1/xml/test/fields.xml
+END
+badcomment.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/bomberman/!svn/ver/109/dom4j-1.6.1/xml/test/badcomment.xml
+END
+namespaces.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/bomberman/!svn/ver/109/dom4j-1.6.1/xml/test/namespaces.xml
+END
+test.xml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/bomberman/!svn/ver/109/dom4j-1.6.1/xml/test/test.xml
+END
+product.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/bomberman/!svn/ver/109/dom4j-1.6.1/xml/test/product.xml
+END
+FranzBeilMain.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/bomberman/!svn/ver/109/dom4j-1.6.1/xml/test/FranzBeilMain.xml
+END
+littledoc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/bomberman/!svn/ver/109/dom4j-1.6.1/xml/test/littledoc.xml
+END
+FranzBeilImport1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/bomberman/!svn/ver/109/dom4j-1.6.1/xml/test/FranzBeilImport1.xml
+END
+FranzBeilImport2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/bomberman/!svn/ver/109/dom4j-1.6.1/xml/test/FranzBeilImport2.xml
+END
+FranzBeilImport3.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/bomberman/!svn/ver/109/dom4j-1.6.1/xml/test/FranzBeilImport3.xml
+END
+jimBrain.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/bomberman/!svn/ver/109/dom4j-1.6.1/xml/test/jimBrain.xml
+END
+encode.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/bomberman/!svn/ver/109/dom4j-1.6.1/xml/test/encode.xml
+END
+test_schema.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/bomberman/!svn/ver/109/dom4j-1.6.1/xml/test/test_schema.xml
+END
+defaultNamespace.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/bomberman/!svn/ver/109/dom4j-1.6.1/xml/test/defaultNamespace.xml
+END
+elementByID.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/bomberman/!svn/ver/109/dom4j-1.6.1/xml/test/elementByID.xml
+END
+dosLineFeeds.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/bomberman/!svn/ver/109/dom4j-1.6.1/xml/test/dosLineFeeds.xml
+END
+junk.xml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/bomberman/!svn/ver/109/dom4j-1.6.1/xml/test/junk.xml
+END
+defaultNamespaceIssue.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/bomberman/!svn/ver/109/dom4j-1.6.1/xml/test/defaultNamespaceIssue.xsd
+END
+journal.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/bomberman/!svn/ver/109/dom4j-1.6.1/xml/test/journal.xml
+END

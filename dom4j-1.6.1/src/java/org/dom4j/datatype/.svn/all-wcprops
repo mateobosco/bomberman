@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/java/org/dom4j/datatype
+END
+DatatypeDocumentFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/java/org/dom4j/datatype/DatatypeDocumentFactory.java
+END
+DatatypeElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/java/org/dom4j/datatype/DatatypeElement.java
+END
+InvalidSchemaException.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/java/org/dom4j/datatype/InvalidSchemaException.java
+END
+NamedTypeResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/java/org/dom4j/datatype/NamedTypeResolver.java
+END
+DatatypeElementFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/java/org/dom4j/datatype/DatatypeElementFactory.java
+END
+SchemaParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/java/org/dom4j/datatype/SchemaParser.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/java/org/dom4j/datatype/package.html
+END
+DatatypeAttribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/java/org/dom4j/datatype/DatatypeAttribute.java
+END

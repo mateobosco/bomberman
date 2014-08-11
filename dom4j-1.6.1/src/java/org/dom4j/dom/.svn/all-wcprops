@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/java/org/dom4j/dom
+END
+DOMText.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/java/org/dom4j/dom/DOMText.java
+END
+DOMNodeHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/java/org/dom4j/dom/DOMNodeHelper.java
+END
+DOMDocumentFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/java/org/dom4j/dom/DOMDocumentFactory.java
+END
+DOMAttributeNodeMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/java/org/dom4j/dom/DOMAttributeNodeMap.java
+END
+DOMElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/java/org/dom4j/dom/DOMElement.java
+END
+DOMEntityReference.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/java/org/dom4j/dom/DOMEntityReference.java
+END
+DOMCDATA.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/java/org/dom4j/dom/DOMCDATA.java
+END
+DOMNamespace.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/java/org/dom4j/dom/DOMNamespace.java
+END
+DOMDocument.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/java/org/dom4j/dom/DOMDocument.java
+END
+DOMProcessingInstruction.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/java/org/dom4j/dom/DOMProcessingInstruction.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/java/org/dom4j/dom/package.html
+END
+DOMDocumentType.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/java/org/dom4j/dom/DOMDocumentType.java
+END
+DOMComment.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/java/org/dom4j/dom/DOMComment.java
+END
+DOMAttribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/java/org/dom4j/dom/DOMAttribute.java
+END

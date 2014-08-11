@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/test/org/dom4j/datatype
+END
+AutoSchemaTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/test/org/dom4j/datatype/AutoSchemaTest.java
+END
+AbstractDataTypeTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/test/org/dom4j/datatype/AbstractDataTypeTestCase.java
+END
+SchemaParseTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/test/org/dom4j/datatype/SchemaParseTest.java
+END
+ManualSchemaPrefixTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/test/org/dom4j/datatype/ManualSchemaPrefixTest.java
+END
+Datatype2Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/test/org/dom4j/datatype/Datatype2Test.java
+END
+DataTypesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/test/org/dom4j/datatype/DataTypesTest.java
+END
+ManualSchemaTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/test/org/dom4j/datatype/ManualSchemaTest.java
+END
+SetDataTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/test/org/dom4j/datatype/SetDataTest.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/bomberman/!svn/ver/109/dom4j-1.6.1/xml/relaxng
+END
+address.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/bomberman/!svn/ver/109/dom4j-1.6.1/xml/relaxng/address.xml
+END
+address.rng
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/bomberman/!svn/ver/109/dom4j-1.6.1/xml/relaxng/address.rng
+END
+bad_address.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/bomberman/!svn/ver/109/dom4j-1.6.1/xml/relaxng/bad_address.xml
+END
+address.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/bomberman/!svn/ver/109/dom4j-1.6.1/xml/relaxng/address.dtd
+END

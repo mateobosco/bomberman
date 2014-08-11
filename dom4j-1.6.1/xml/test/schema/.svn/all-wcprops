@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/bomberman/!svn/ver/109/dom4j-1.6.1/xml/test/schema
+END
+test.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/bomberman/!svn/ver/109/dom4j-1.6.1/xml/test/schema/test.xsd
+END
+personal.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/bomberman/!svn/ver/109/dom4j-1.6.1/xml/test/schema/personal.dtd
+END
+personal_dtd.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/bomberman/!svn/ver/109/dom4j-1.6.1/xml/test/schema/personal_dtd.xml
+END
+test.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/bomberman/!svn/ver/109/dom4j-1.6.1/xml/test/schema/test.xml
+END
+personal-schema.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/bomberman/!svn/ver/109/dom4j-1.6.1/xml/test/schema/personal-schema.xml
+END
+personal.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/bomberman/!svn/ver/109/dom4j-1.6.1/xml/test/schema/personal.xsd
+END
+personal.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/bomberman/!svn/ver/109/dom4j-1.6.1/xml/test/schema/personal.xml
+END
+personal-prefix.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/bomberman/!svn/ver/109/dom4j-1.6.1/xml/test/schema/personal-prefix.xsd
+END

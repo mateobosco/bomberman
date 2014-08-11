@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/bomberman/!svn/ver/109/dom4j-1.6.1/docs/clover/org/dom4j/datatype
+END
+pkg-classes.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/bomberman/!svn/ver/109/dom4j-1.6.1/docs/clover/org/dom4j/datatype/pkg-classes.html
+END
+pkg-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/bomberman/!svn/ver/109/dom4j-1.6.1/docs/clover/org/dom4j/datatype/pkg-summary.html
+END
+DatatypeElementFactory.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/bomberman/!svn/ver/109/dom4j-1.6.1/docs/clover/org/dom4j/datatype/DatatypeElementFactory.html
+END
+SchemaParser.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/bomberman/!svn/ver/109/dom4j-1.6.1/docs/clover/org/dom4j/datatype/SchemaParser.html
+END
+DatatypeAttribute.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/bomberman/!svn/ver/109/dom4j-1.6.1/docs/clover/org/dom4j/datatype/DatatypeAttribute.html
+END
+DatatypeDocumentFactory.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/bomberman/!svn/ver/109/dom4j-1.6.1/docs/clover/org/dom4j/datatype/DatatypeDocumentFactory.html
+END
+DatatypeElement.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/bomberman/!svn/ver/109/dom4j-1.6.1/docs/clover/org/dom4j/datatype/DatatypeElement.html
+END
+InvalidSchemaException.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/bomberman/!svn/ver/109/dom4j-1.6.1/docs/clover/org/dom4j/datatype/InvalidSchemaException.html
+END
+NamedTypeResolver.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/bomberman/!svn/ver/109/dom4j-1.6.1/docs/clover/org/dom4j/datatype/NamedTypeResolver.html
+END

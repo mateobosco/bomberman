@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/test/org/dom4j/io
+END
+DTDTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/test/org/dom4j/io/DTDTest.java
+END
+DOMWriterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/test/org/dom4j/io/DOMWriterTest.java
+END
+DispatchHandlerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/test/org/dom4j/io/DispatchHandlerTest.java
+END
+XPP3ReaderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/test/org/dom4j/io/XPP3ReaderTest.java
+END
+SAXReaderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/test/org/dom4j/io/SAXReaderTest.java
+END
+DocumentSourceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/test/org/dom4j/io/DocumentSourceTest.java
+END
+StaxTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/test/org/dom4j/io/StaxTest.java
+END
+DOMReaderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/test/org/dom4j/io/DOMReaderTest.java
+END
+WriteUnmergedTextTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/test/org/dom4j/io/WriteUnmergedTextTest.java
+END

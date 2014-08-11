@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/bomberman/!svn/ver/109/dom4j-1.6.1/xml/nitf
+END
+ashtml.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/bomberman/!svn/ver/109/dom4j-1.6.1/xml/nitf/ashtml.xsl
+END
+valid.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/bomberman/!svn/ver/109/dom4j-1.6.1/xml/nitf/valid.xml
+END
+sample.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/bomberman/!svn/ver/109/dom4j-1.6.1/xml/nitf/sample.xml
+END
+invalid.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/bomberman/!svn/ver/109/dom4j-1.6.1/xml/nitf/invalid.xml
+END
+nitf.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/bomberman/!svn/ver/109/dom4j-1.6.1/xml/nitf/nitf.dtd
+END

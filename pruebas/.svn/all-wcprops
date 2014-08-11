@@ -1,0 +1,377 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/bomberman/!svn/ver/133/pruebas
+END
+TestArticulosVivosExisteEn.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/bomberman/!svn/ver/71/pruebas/TestArticulosVivosExisteEn.java
+END
+TestRangosToleTole.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/bomberman/!svn/ver/71/pruebas/TestRangosToleTole.java
+END
+TestJugadorValidarVida.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/bomberman/!svn/ver/130/pruebas/TestJugadorValidarVida.java
+END
+TestMoverJugadorValido.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/bomberman/!svn/ver/104/pruebas/TestMoverJugadorValido.java
+END
+TestPuertaGetCoordenadas.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/bomberman/!svn/ver/130/pruebas/TestPuertaGetCoordenadas.java
+END
+TestEnemigoEstaVivo.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/bomberman/!svn/ver/133/pruebas/TestEnemigoEstaVivo.java
+END
+testToleToleRompeAcero.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/bomberman/!svn/ver/71/pruebas/testToleToleRompeAcero.java
+END
+TestJuegoMoverJugadorHaciaArriba.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/bomberman/!svn/ver/79/pruebas/TestJuegoMoverJugadorHaciaArriba.java
+END
+TestToleToleRompeCemento.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/bomberman/!svn/ver/71/pruebas/TestToleToleRompeCemento.java
+END
+TestJugadorPonerBombaToleTole.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/bomberman/!svn/ver/133/pruebas/TestJugadorPonerBombaToleTole.java
+END
+TestFabricadenivelesCargarTercerNivel.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/bomberman/!svn/ver/133/pruebas/TestFabricadenivelesCargarTercerNivel.java
+END
+testBombaMolotovNoRompeAcero.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/bomberman/!svn/ver/71/pruebas/testBombaMolotovNoRompeAcero.java
+END
+TestJugadorInteractuarConEnemigosVivos.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/bomberman/!svn/ver/93/pruebas/TestJugadorInteractuarConEnemigosVivos.java
+END
+TestJuegoMoverJugadorIzquierda.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/bomberman/!svn/ver/79/pruebas/TestJuegoMoverJugadorIzquierda.java
+END
+TestEnemigosVivosgetCantidadVivos.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/bomberman/!svn/ver/131/pruebas/TestEnemigosVivosgetCantidadVivos.java
+END
+TestEnemigoPonerArmamentos.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/bomberman/!svn/ver/133/pruebas/TestEnemigoPonerArmamentos.java
+END
+TestJugadorDetrasDeBloque.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/bomberman/!svn/ver/71/pruebas/TestJugadorDetrasDeBloque.java
+END
+TestJuegoMoverJugadorHaciaAbajo.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/bomberman/!svn/ver/71/pruebas/TestJuegoMoverJugadorHaciaAbajo.java
+END
+testInteractuarConBuffToleToleFalso.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/bomberman/!svn/ver/71/pruebas/testInteractuarConBuffToleToleFalso.java
+END
+TestObstaculosVivosExisteBloqueEn.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/bomberman/!svn/ver/71/pruebas/TestObstaculosVivosExisteBloqueEn.java
+END
+TestJugadorPuedePonerBomba.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/bomberman/!svn/ver/133/pruebas/TestJugadorPuedePonerBomba.java
+END
+TestEnemigosVivosTodosMuertos.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/bomberman/!svn/ver/130/pruebas/TestEnemigosVivosTodosMuertos.java
+END
+TestArmamentosVivosAgregar.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/bomberman/!svn/ver/71/pruebas/TestArmamentosVivosAgregar.java
+END
+TestBombaNoExplotoNoPasoTiempo.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/bomberman/!svn/ver/71/pruebas/TestBombaNoExplotoNoPasoTiempo.java
+END
+TestEnemigoGetVida.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/bomberman/!svn/ver/114/pruebas/TestEnemigoGetVida.java
+END
+TestJugadorgetUltimaDireccion.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/bomberman/!svn/ver/133/pruebas/TestJugadorgetUltimaDireccion.java
+END
+TestFabricadeNivelesCargarSegundoNivel.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/bomberman/!svn/ver/133/pruebas/TestFabricadeNivelesCargarSegundoNivel.java
+END
+TestToleToleObstaculosdetras.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/bomberman/!svn/ver/71/pruebas/TestToleToleObstaculosdetras.java
+END
+TestLopezReggaePonerArmamentosAbajo.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/bomberman/!svn/ver/130/pruebas/TestLopezReggaePonerArmamentosAbajo.java
+END
+testInteractuarConBuffToleTole.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/bomberman/!svn/ver/71/pruebas/testInteractuarConBuffToleTole.java
+END
+TestObstaculosVivosNoEstanTodosVivos.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/bomberman/!svn/ver/71/pruebas/TestObstaculosVivosNoEstanTodosVivos.java
+END
+TestMolotov.java
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/bomberman/!svn/ver/71/pruebas/TestMolotov.java
+END
+TestEliminarFuegosVivos.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/bomberman/!svn/ver/71/pruebas/TestEliminarFuegosVivos.java
+END
+TestJugadorPonerBomba.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/bomberman/!svn/ver/71/pruebas/TestJugadorPonerBomba.java
+END
+TestMoverJugadorNoValido.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/bomberman/!svn/ver/79/pruebas/TestMoverJugadorNoValido.java
+END
+TestObstaculosVivosEstanTodosVivos.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/bomberman/!svn/ver/71/pruebas/TestObstaculosVivosEstanTodosVivos.java
+END
+TestBombaToleToleRompeLadrillos.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/bomberman/!svn/ver/71/pruebas/TestBombaToleToleRompeLadrillos.java
+END
+TestEnemigoInteractuarConJugador.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/bomberman/!svn/ver/93/pruebas/TestEnemigoInteractuarConJugador.java
+END
+TestFabricadeNivelesGetNumNivel.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/bomberman/!svn/ver/132/pruebas/TestFabricadeNivelesGetNumNivel.java
+END
+TestMolotovEnemigaMataJugador.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/bomberman/!svn/ver/71/pruebas/TestMolotovEnemigaMataJugador.java
+END
+TestPonerBombaMolotov.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/bomberman/!svn/ver/71/pruebas/TestPonerBombaMolotov.java
+END
+TestJugadorTocaBuff.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/bomberman/!svn/ver/72/pruebas/TestJugadorTocaBuff.java
+END
+TestCrearObstaculo.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/bomberman/!svn/ver/71/pruebas/TestCrearObstaculo.java
+END
+TestRangosMolotov.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/bomberman/!svn/ver/71/pruebas/TestRangosMolotov.java
+END
+TestExplosionAgregarAFuegosVivos.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/bomberman/!svn/ver/114/pruebas/TestExplosionAgregarAFuegosVivos.java
+END
+TestPuertaInteractuoConJugador.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/bomberman/!svn/ver/133/pruebas/TestPuertaInteractuoConJugador.java
+END
+TestEnemigoAladoPuedeVolar.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/bomberman/!svn/ver/114/pruebas/TestEnemigoAladoPuedeVolar.java
+END
+TestLopezReggaePonerArmamento.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/bomberman/!svn/ver/130/pruebas/TestLopezReggaePonerArmamento.java
+END
+TestArmamentosVivosEliminar.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/bomberman/!svn/ver/133/pruebas/TestArmamentosVivosEliminar.java
+END
+TestJugadorNoPuedeVolar.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/bomberman/!svn/ver/114/pruebas/TestJugadorNoPuedeVolar.java
+END
+testBombaToleToleRompeTodo.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/bomberman/!svn/ver/71/pruebas/testBombaToleToleRompeTodo.java
+END
+TestArmamentosVivosTodosExplotaron.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/bomberman/!svn/ver/71/pruebas/TestArmamentosVivosTodosExplotaron.java
+END
+testInteractuarConTimer.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/bomberman/!svn/ver/104/pruebas/testInteractuarConTimer.java
+END
+TestArticulosVivosAgregar.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/bomberman/!svn/ver/130/pruebas/TestArticulosVivosAgregar.java
+END
+TestBombaPasoTiempoYExploto.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/bomberman/!svn/ver/71/pruebas/TestBombaPasoTiempoYExploto.java
+END
+TestEnemigosVivosAgregar.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/bomberman/!svn/ver/71/pruebas/TestEnemigosVivosAgregar.java
+END
+TestJuegoMoverJugadorConChala.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/bomberman/!svn/ver/111/pruebas/TestJuegoMoverJugadorConChala.java
+END
+TestMolotovEnemigaNoMataEnemigo.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/bomberman/!svn/ver/71/pruebas/TestMolotovEnemigaNoMataEnemigo.java
+END
+TestJugadorGetCoordenadas.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/bomberman/!svn/ver/114/pruebas/TestJugadorGetCoordenadas.java
+END
+TestEnemigoDebePonerArmamentos.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/bomberman/!svn/ver/114/pruebas/TestEnemigoDebePonerArmamentos.java
+END
+TestEnemigoGetVelocidad.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/bomberman/!svn/ver/114/pruebas/TestEnemigoGetVelocidad.java
+END
+TestJuegoMoverJugadorHaciaDerecha.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/bomberman/!svn/ver/71/pruebas/TestJuegoMoverJugadorHaciaDerecha.java
+END

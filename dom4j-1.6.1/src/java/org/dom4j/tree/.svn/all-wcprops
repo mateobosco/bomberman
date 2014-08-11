@@ -1,0 +1,251 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/java/org/dom4j/tree
+END
+DefaultCDATA.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/java/org/dom4j/tree/DefaultCDATA.java
+END
+NamespaceStack.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/java/org/dom4j/tree/NamespaceStack.java
+END
+DefaultDocument.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/java/org/dom4j/tree/DefaultDocument.java
+END
+BaseElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/java/org/dom4j/tree/BaseElement.java
+END
+AbstractComment.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/java/org/dom4j/tree/AbstractComment.java
+END
+AbstractAttribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/java/org/dom4j/tree/AbstractAttribute.java
+END
+SingleIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/java/org/dom4j/tree/SingleIterator.java
+END
+FilterIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/java/org/dom4j/tree/FilterIterator.java
+END
+FlyweightEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/java/org/dom4j/tree/FlyweightEntity.java
+END
+AbstractCDATA.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/java/org/dom4j/tree/AbstractCDATA.java
+END
+AbstractEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/java/org/dom4j/tree/AbstractEntity.java
+END
+DefaultNamespace.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/java/org/dom4j/tree/DefaultNamespace.java
+END
+FlyweightProcessingInstruction.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/java/org/dom4j/tree/FlyweightProcessingInstruction.java
+END
+AbstractDocumentType.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/java/org/dom4j/tree/AbstractDocumentType.java
+END
+ConcurrentReaderHashMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/java/org/dom4j/tree/ConcurrentReaderHashMap.java
+END
+FlyweightText.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/java/org/dom4j/tree/FlyweightText.java
+END
+AbstractText.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/java/org/dom4j/tree/AbstractText.java
+END
+AbstractNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/java/org/dom4j/tree/AbstractNode.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/java/org/dom4j/tree/package.html
+END
+NamespaceCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/java/org/dom4j/tree/NamespaceCache.java
+END
+DefaultEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/java/org/dom4j/tree/DefaultEntity.java
+END
+AbstractBranch.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/java/org/dom4j/tree/AbstractBranch.java
+END
+DefaultProcessingInstruction.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/java/org/dom4j/tree/DefaultProcessingInstruction.java
+END
+ElementQNameIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/java/org/dom4j/tree/ElementQNameIterator.java
+END
+DefaultDocumentType.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/java/org/dom4j/tree/DefaultDocumentType.java
+END
+FlyweightComment.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/java/org/dom4j/tree/FlyweightComment.java
+END
+QNameCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/java/org/dom4j/tree/QNameCache.java
+END
+FlyweightAttribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/java/org/dom4j/tree/FlyweightAttribute.java
+END
+DefaultText.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/java/org/dom4j/tree/DefaultText.java
+END
+ContentListFacade.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/java/org/dom4j/tree/ContentListFacade.java
+END
+DefaultElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/java/org/dom4j/tree/DefaultElement.java
+END
+FlyweightCDATA.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/java/org/dom4j/tree/FlyweightCDATA.java
+END
+AbstractDocument.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/java/org/dom4j/tree/AbstractDocument.java
+END
+AbstractProcessingInstruction.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/java/org/dom4j/tree/AbstractProcessingInstruction.java
+END
+ElementIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/java/org/dom4j/tree/ElementIterator.java
+END
+ElementNameIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/java/org/dom4j/tree/ElementNameIterator.java
+END
+BackedList.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/java/org/dom4j/tree/BackedList.java
+END
+DefaultComment.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/java/org/dom4j/tree/DefaultComment.java
+END
+DefaultAttribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/java/org/dom4j/tree/DefaultAttribute.java
+END
+AbstractCharacterData.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/java/org/dom4j/tree/AbstractCharacterData.java
+END
+AbstractElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/bomberman/!svn/ver/109/dom4j-1.6.1/src/java/org/dom4j/tree/AbstractElement.java
+END

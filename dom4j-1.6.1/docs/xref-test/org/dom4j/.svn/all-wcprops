@@ -1,0 +1,281 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/bomberman/!svn/ver/109/dom4j-1.6.1/docs/xref-test/org/dom4j
+END
+AbstractTestCase.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/bomberman/!svn/ver/109/dom4j-1.6.1/docs/xref-test/org/dom4j/AbstractTestCase.html
+END
+NormalizeTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/bomberman/!svn/ver/109/dom4j-1.6.1/docs/xref-test/org/dom4j/NormalizeTest.html
+END
+CloneTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/bomberman/!svn/ver/109/dom4j-1.6.1/docs/xref-test/org/dom4j/CloneTest.html
+END
+SetTextTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/bomberman/!svn/ver/109/dom4j-1.6.1/docs/xref-test/org/dom4j/SetTextTest.html
+END
+ElementByIDTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/bomberman/!svn/ver/109/dom4j-1.6.1/docs/xref-test/org/dom4j/ElementByIDTest.html
+END
+DocTypeTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/bomberman/!svn/ver/109/dom4j-1.6.1/docs/xref-test/org/dom4j/DocTypeTest.html
+END
+ContentTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/bomberman/!svn/ver/109/dom4j-1.6.1/docs/xref-test/org/dom4j/ContentTest.html
+END
+CopyTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/bomberman/!svn/ver/109/dom4j-1.6.1/docs/xref-test/org/dom4j/CopyTest.html
+END
+LineFeedTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/bomberman/!svn/ver/109/dom4j-1.6.1/docs/xref-test/org/dom4j/LineFeedTest.html
+END
+ProcessingInstructionTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/bomberman/!svn/ver/109/dom4j-1.6.1/docs/xref-test/org/dom4j/ProcessingInstructionTest.html
+END
+ParseTextTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/bomberman/!svn/ver/109/dom4j-1.6.1/docs/xref-test/org/dom4j/ParseTextTest.html
+END
+IsTextOnlyTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/bomberman/!svn/ver/109/dom4j-1.6.1/docs/xref-test/org/dom4j/IsTextOnlyTest.html
+END
+XPathBugTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/bomberman/!svn/ver/109/dom4j-1.6.1/docs/xref-test/org/dom4j/XPathBugTest.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/bomberman/!svn/ver/109/dom4j-1.6.1/docs/xref-test/org/dom4j/package-frame.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/bomberman/!svn/ver/109/dom4j-1.6.1/docs/xref-test/org/dom4j/package-summary.html
+END
+SetContentTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/bomberman/!svn/ver/109/dom4j-1.6.1/docs/xref-test/org/dom4j/SetContentTest.html
+END
+MakeElementTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/bomberman/!svn/ver/109/dom4j-1.6.1/docs/xref-test/org/dom4j/MakeElementTest.html
+END
+SerializeTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/bomberman/!svn/ver/109/dom4j-1.6.1/docs/xref-test/org/dom4j/SerializeTest.html
+END
+NodeTypeNameTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/bomberman/!svn/ver/109/dom4j-1.6.1/docs/xref-test/org/dom4j/NodeTypeNameTest.html
+END
+ParentTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/bomberman/!svn/ver/109/dom4j-1.6.1/docs/xref-test/org/dom4j/ParentTest.html
+END
+IndexedElementTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/bomberman/!svn/ver/109/dom4j-1.6.1/docs/xref-test/org/dom4j/IndexedElementTest.html
+END
+XSLTTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/bomberman/!svn/ver/109/dom4j-1.6.1/docs/xref-test/org/dom4j/XSLTTest.html
+END
+XMLWriterTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/bomberman/!svn/ver/109/dom4j-1.6.1/docs/xref-test/org/dom4j/XMLWriterTest.html
+END
+AddNodeTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/bomberman/!svn/ver/109/dom4j-1.6.1/docs/xref-test/org/dom4j/AddNodeTest.html
+END
+XMLResultTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/bomberman/!svn/ver/109/dom4j-1.6.1/docs/xref-test/org/dom4j/XMLResultTest.html
+END
+XMLSpaceAttributeTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/bomberman/!svn/ver/109/dom4j-1.6.1/docs/xref-test/org/dom4j/XMLSpaceAttributeTest.html
+END
+HTMLWriterTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/bomberman/!svn/ver/109/dom4j-1.6.1/docs/xref-test/org/dom4j/HTMLWriterTest.html
+END
+MergeTextTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/bomberman/!svn/ver/109/dom4j-1.6.1/docs/xref-test/org/dom4j/MergeTextTest.html
+END
+BackedListTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/bomberman/!svn/ver/109/dom4j-1.6.1/docs/xref-test/org/dom4j/BackedListTest.html
+END
+ThreadingTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/bomberman/!svn/ver/109/dom4j-1.6.1/docs/xref-test/org/dom4j/ThreadingTest.html
+END
+GetXMLEncodingTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/bomberman/!svn/ver/109/dom4j-1.6.1/docs/xref-test/org/dom4j/GetXMLEncodingTest.html
+END
+UserDataTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/bomberman/!svn/ver/109/dom4j-1.6.1/docs/xref-test/org/dom4j/UserDataTest.html
+END
+AddAttributeTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/bomberman/!svn/ver/109/dom4j-1.6.1/docs/xref-test/org/dom4j/AddAttributeTest.html
+END
+AttributeDetachTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/bomberman/!svn/ver/109/dom4j-1.6.1/docs/xref-test/org/dom4j/AttributeDetachTest.html
+END
+NamespacesTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/bomberman/!svn/ver/109/dom4j-1.6.1/docs/xref-test/org/dom4j/NamespacesTest.html
+END
+NullAttributesTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/bomberman/!svn/ver/109/dom4j-1.6.1/docs/xref-test/org/dom4j/NullAttributesTest.html
+END
+XPathExamplesTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/bomberman/!svn/ver/109/dom4j-1.6.1/docs/xref-test/org/dom4j/XPathExamplesTest.html
+END
+SAXContentHandlerTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/bomberman/!svn/ver/109/dom4j-1.6.1/docs/xref-test/org/dom4j/SAXContentHandlerTest.html
+END
+GetQNamesTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/bomberman/!svn/ver/109/dom4j-1.6.1/docs/xref-test/org/dom4j/GetQNamesTest.html
+END
+XPathTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/bomberman/!svn/ver/109/dom4j-1.6.1/docs/xref-test/org/dom4j/XPathTest.html
+END
+RoundTripTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/bomberman/!svn/ver/109/dom4j-1.6.1/docs/xref-test/org/dom4j/RoundTripTest.html
+END
+EmbeddedHandlerTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/bomberman/!svn/ver/109/dom4j-1.6.1/docs/xref-test/org/dom4j/EmbeddedHandlerTest.html
+END
+DetachTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/bomberman/!svn/ver/109/dom4j-1.6.1/docs/xref-test/org/dom4j/DetachTest.html
+END
+IteratorTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/bomberman/!svn/ver/109/dom4j-1.6.1/docs/xref-test/org/dom4j/IteratorTest.html
+END
+ValidationTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/bomberman/!svn/ver/109/dom4j-1.6.1/docs/xref-test/org/dom4j/ValidationTest.html
+END
+NamespaceTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/bomberman/!svn/ver/109/dom4j-1.6.1/docs/xref-test/org/dom4j/NamespaceTest.html
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/bomberman/!svn/ver/109/dom4j-1.6.1/lib/test
+END
+junitperf-1.8.jar
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/bomberman/!svn/ver/109/dom4j-1.6.1/lib/test/junitperf-1.8.jar
+END
+JUnitPerf_LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/bomberman/!svn/ver/109/dom4j-1.6.1/lib/test/JUnitPerf_LICENSE
+END
+junit-3.8.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/bomberman/!svn/ver/109/dom4j-1.6.1/lib/test/junit-3.8.1.jar
+END
+jsr173_1.0_ri.jar
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/bomberman/!svn/ver/109/dom4j-1.6.1/lib/test/jsr173_1.0_ri.jar
+END

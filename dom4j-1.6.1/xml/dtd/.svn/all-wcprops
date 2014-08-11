@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/bomberman/!svn/ver/109/dom4j-1.6.1/xml/dtd
+END
+internal.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/bomberman/!svn/ver/109/dom4j-1.6.1/xml/dtd/internal.xml
+END
+sample.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/bomberman/!svn/ver/109/dom4j-1.6.1/xml/dtd/sample.dtd
+END
+external.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/bomberman/!svn/ver/109/dom4j-1.6.1/xml/dtd/external.xml
+END
+mixed.xml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/bomberman/!svn/ver/109/dom4j-1.6.1/xml/dtd/mixed.xml
+END
